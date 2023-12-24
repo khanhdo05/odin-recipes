@@ -1,12 +1,25 @@
 /* Global Styles */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     background-color: #ffffff;
     color: #2f2f2f;
 }
 
+h1 {
+    font-family: 'Poppins', 'sans-serif';
+}
+
+h3 {
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.quote {
+    font-style: italic;
+}
+
 /* Header Styles */
 .header {
+    font-family: 'Poppins', 'sans-serif';
     background-color: #f5e4da;
     color: #2f2f2f;
     padding: 10px;
@@ -16,3 +29,9 @@ body {
     display: inline-block;
     padding: 10px;
   }
+
+.footer {
+    background-color: #2f2f2f;
+    color: #ffffff;
+    padding: 10px;
+}
