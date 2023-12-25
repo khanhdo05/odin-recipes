@@ -1,0 +1,19 @@
+.trendiest-recipes {
+    display: flex;
+    justify-content:center;
+}
+
+.image-box {
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+}
+
+.image-box img {
+    max-width: 100%;
+    height: auto;
+}
+
+.caption {
+    font-weight: bold;
+}
